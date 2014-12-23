@@ -1,0 +1,12 @@
+# Site settings
+title:  Unvaniezh Bretoned Izelvroioù
+email: contact@breizh-izelvroiou.com
+description: "Unvaniezh Bretoned Izelvroioù, Piv Omp ? "
+baseurl: ""
+url: "http://www.breizh-izelvroiou.com"
+#twitter_username: jekyllrb
+github_username:  ymorvan
+
+# Build settings
+markdown: kramdown
+permalink: pretty
