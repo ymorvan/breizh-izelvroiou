@@ -10,3 +10,15 @@ github_username:  ymorvan
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+
+
+# # Permalinks
+# permalink:        pretty
+ 
+# # Server
+# destination:      _gh_pages
+# host:             0.0.0.0
+# port:             9001
+# baseurl:          /
+# encoding:         UTF-8
