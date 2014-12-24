@@ -4,6 +4,7 @@ title: Fest Noz et Stage à la Carte www.festnoz.beFest Noz et Stage à la Carte
 redirect_from: "/Fest-Noz-Stage-a-la-Carte-www.html"
 image: images/arton29.png
 ---
+
 Chers amis,
 
 Comme chaque année nous avons le plaisir de vous inviter à notre
