@@ -1,14 +1,9 @@
 ---
 layout: post
-title: Far aux pruneaux de Loperc’hed
+title: Fest Noz et Stage à la Carte www.festnoz.beFest Noz et Stage à la Carte www.festnoz.be
 redirect_from: "/Fest-Noz-Stage-a-la-Carte-www.html"
-image: images/rubon4.jpg
+image: images/arton29.png
 ---
-
-Fest Noz & Stage à la Carte www.festnoz.be
-
-mardi 24 juin 2014, par yannig
-
 Chers amis,
 
 Comme chaque année nous avons le plaisir de vous inviter à notre
