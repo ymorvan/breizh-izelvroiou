@@ -22,7 +22,9 @@ layout: default
             </div>
 
             <div class="col-md-10 col-sm-9">
+	      <a href="{{ post.url | prepend: site.baseurl }}">
               <h3>{{post.title}}</h3>
+	      </a>
               <div class="row">
                 <div class="col-xs-9">
                   <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
