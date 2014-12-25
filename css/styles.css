@@ -40,8 +40,14 @@ footer {
   display:block;
 }
 
-a,a:hover {
-  color:#223344;
+a {
+  color:#57A64B;
+  text-decoration:none;
+}
+
+
+a:hover {
+  color:#6093BF;
   text-decoration:none;
 }
 
