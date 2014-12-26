@@ -18,7 +18,7 @@ permalink: none
  
 # # Server
 # destination:      _gh_pages
-host:             192.168.1.10
+host:             192.168.1.14
 port:             8080
 # baseurl:          /
 # encoding:         UTF-8
