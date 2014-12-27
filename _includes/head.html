@@ -3,16 +3,17 @@
   <meta charset="utf-8">
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
-  <meta name="generator" content="Bootply" />
+  <meta name="generator" content="jekyll" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <link href="/css/bootstrap.min.css" rel="stylesheet">
-
-  <!-- <link href="/css/font-awesome.min.css" rel="stylesheet"> -->
-
-
   <!--[if lt IE 9]>
       <script src="/css/html5.js"></script>
-      <![endif]-->
+  <![endif]-->
    <link href="/css/styles.css" rel="stylesheet">
+   {% if page.title == missing  %}
+   <meta http-equiv="refresh" content="10; url=/">
+   {% endif %}
+
+
 
 </head>
