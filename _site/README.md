@@ -21,3 +21,6 @@ D95F98 (RGB):(217;95;152)
 F2C84B (RGB):(242;200;75)
 F23838 (RGB):(242;56;56)
 
+
+
+rsync --compress --recursive --checksum --delete _site/ user@host.tld:public_html/
