@@ -1,13 +1,14 @@
 ---
 layout: post
-title: Ur staj brezhoneg e Brusel fr
+title: Ur staj brezhoneg e Brusel
 redirect_from: "/Ur-staj-brezhoneg-e-Brusel.html"
 image: images/roudour.jpg
 excerpt: "Merci de transmettre l’info, Roudour organisera un stage de breton à
 Bruxelles les 16 et 17 Avril 2011. Roudour est un organisme de
 formation professsionnel basé à Carhaix dont les formateurs utilisent..."
 ---
-Message de l'assocation Roudour.
+
+## Message de l'assocation Roudour.
 
 Bonjour,
 

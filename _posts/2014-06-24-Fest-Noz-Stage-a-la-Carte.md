@@ -3,9 +3,12 @@ layout: post
 title: Fest Noz et Stage à la Carte
 redirect_from: "/Fest-Noz-Stage-a-la-Carte-www.html"
 image: images/arton29.png
-excerpt: "Chers amis, Comme chaque année nous avons le plaisir de vous inviter à notre évènement clé qui aura lieu le 1er novembre 2014 à Jette. Nous avons une nouvelle formule pour le Super Workshop à la carte Deux raisons pour cette nouvelle formule : deux super moniteurs pour les stages de danses bretonnes : R. Autret et F. Correa mieux vous aider dans vos projets en cours et ceux en développement..."
+excerpt: "Message de l'assocation Roudour. Chers amis, Comme chaque année nous avons le plaisir de vous inviter à notre évènement clé qui aura lieu le 1er novembre 2014 à Jette. Nous avons une nouvelle formule pour le Super Workshop à la carte Deux raisons pour cette nouvelle formule : deux super moniteurs pour les stages de danses bretonnes : R. Autret et F. Correa mieux vous aider dans vos projets en cours et ceux en développement..."
 ---
-Chers amis,
+
+## Message de l'assocation Roudour
+
+# Chers amis,
 
 Comme chaque année nous avons le plaisir de vous inviter à notre
 évènement clé qui aura lieu le 1er novembre 2014 à Jette.

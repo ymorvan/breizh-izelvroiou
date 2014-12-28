@@ -5,13 +5,10 @@ layout: default
 
 <div class="container">
   <div class="row">
-    
     <div class="col-md-12"> 
-      
       <div class="panel">
         <div class="panel-body">
 	  {% for post in site.posts %}
-
           <!--/stories-->
 	  <div class="row">
             <div class="col-md-2 col-sm-3 text-center">
@@ -25,20 +22,7 @@ layout: default
               <div class="row">
                 <div class="col-xs-9">
                   <p>{{ post.excerpt }}</p>
-
-		    <!-- <button class="btn btn-default"> -->
- 		    <!--   <a class="btn_white" href="{{ post.url | prepend: site.baseurl }}">Suite...</a> -->
-		    <!-- </button> -->
-
-
-
-
 		    <a href="{{ post.url | prepend: site.baseurl }}" class="btn btn-default">Suite...</a>
-
-
-
-
-
 		  <br>
 		  {{ post.date | date: "%-d %B %Y" }}
                 </div> <!-- col-xs-9 -->

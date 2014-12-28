@@ -1,6 +1,5 @@
-breizh-izelvroiou
+<http://www.breizh-izelvroiou.com>
 =================
-
 breizh-izelvroiou' jekyll website
 
 # Some links
